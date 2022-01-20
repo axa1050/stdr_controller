@@ -1,0 +1,10 @@
+<launch>
+	
+  <node pkg="stdr_controller" type="stdr_controller_node" name="stdr_controller_node" />
+
+</launch>  
+
+
+
+
+  
